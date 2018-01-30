@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/camdeardorff/Alexa-Summer-Learn-Skill/issues"
   },
-  "homepage": "https://github.com/camdeardorff/Alexa-Summer-Learn-Skill#readme"
+  "homepage": "https://github.com/camdeardorff/Alexa-Summer-Learn-Skill#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
 }
